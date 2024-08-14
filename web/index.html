@@ -36,6 +36,28 @@
     // The value below is injected by flutter build, do not touch.
     const serviceWorkerVersion = "4279138927";
   </script>
+
+  <!-- Firebase App (the core Firebase SDK) -->
+  <script src="https://www.gstatic.com/firebasejs/9.6.10/firebase-app.js"></script>
+  <!-- Firebase Authentication SDK -->
+  <script src="https://www.gstatic.com/firebasejs/9.6.10/firebase-auth.js"></script>
+
+  <!-- Initialize Firebase -->
+  <script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyBMlOwtbY5kELa3LgTpO6hjpSWL-tGslgQ",
+      authDomain: "auction-shop-a3d28.firebaseapp.com",
+      projectId: "auction-shop-a3d28",
+      storageBucket: "auction-shop-a3d28.appspot.com",
+      messagingSenderId: "333022048155",
+      appId: "1:333022048155:web:cbdff5d511af2191bd7b3e",
+      measurementId: "G-9CCT8VF6YG"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+  </script>
+
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
