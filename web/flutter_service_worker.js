@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "7499d1e89325e50178aed6a8734b0c05",
-"assets/AssetManifest.bin.json": "81ba593e36c0ab2a08cf51c317cc0609",
-"assets/AssetManifest.json": "a0ac7e49edce78bbc93965977e3fa14a",
+const RESOURCES = {"assets/AssetManifest.bin": "2817be6b36053f2666af9b30239f3da0",
+"assets/AssetManifest.bin.json": "2eaa9a38446367bf6a071b35c852cffa",
+"assets/AssetManifest.json": "cff5be471d5f2f8487f6891f259c4667",
 "assets/assets/fonts/Inter-Black.ttf": "118c5868c7cc1370fcf5a1fc2f569883",
 "assets/assets/fonts/Inter-Bold.ttf": "ba74cc325d5f67d0efbeda51616352db",
 "assets/assets/fonts/Inter-ExtraBold.ttf": "72ac147c98056996b2a31e95a56d6e66",
@@ -65,6 +65,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7499d1e89325e50178aed6a8734b0c05
 "assets/assets/icon/time_limit.png": "8ea5f2afd6cd6e85d6c2997c8fc5608f",
 "assets/assets/img/chatting.png": "efb1626d281394af0aa1f00ed6368b33",
 "assets/assets/img/down_bid.png": "8941557e61b611af729b602aac52707b",
+"assets/assets/img/error.png": "df16ad4a664b201c9f3361b6728cfa6c",
 "assets/assets/img/limit_clock.png": "f9a5887a508753c988f86ca56c4ae728",
 "assets/assets/img/limit_hammer.png": "048b7fb36d75bf3d118f78237edc8db4",
 "assets/assets/img/new_bid.png": "fe41431ac43ddba9990186dfc7c60beb",
@@ -108,7 +109,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7499d1e89325e50178aed6a8734b0c05
 "assets/assets/unselected_icon/unselected_ticket.png": "28f05ce4808dc0b4ceaf6329c2d1a124",
 "assets/FontManifest.json": "7899bf3e037938075da481dc960d339e",
 "assets/fonts/MaterialIcons-Regular.otf": "43c9f1568d60a71efda8ba20705024c6",
-"assets/NOTICES": "c6dd6472f0806c81548a34f9c103d889",
+"assets/NOTICES": "fe185a667a53ffab2dff4f5458004339",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
@@ -130,9 +131,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "7499d1e89325e50178aed6a8734b0c05
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "47fb9e37af6604792a2fcd3a7b834135",
-"/": "47fb9e37af6604792a2fcd3a7b834135",
-"main.dart.js": "22010de99479587434a9c83332b4516a",
+"index.html": "d7c389062ab9abff93a9348457e7e68e",
+"/": "d7c389062ab9abff93a9348457e7e68e",
+"main.dart.js": "0020efc2f8d58cc48ed6e2a51bedaa7a",
 "manifest.json": "66c3172ade3714ab3143d9a3873660db",
 "version.json": "17dd3ba715270b9696643b3faebdb0b9"};
 // The application shell files that are downloaded before a service worker can
